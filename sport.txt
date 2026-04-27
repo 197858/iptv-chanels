@@ -2,9 +2,6 @@ Daftar Channel Movies
 
 #EXTM3U url-tvg=""
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/example1.png" group-title="Qatar", Alkass One
-https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
-
 Channel 1
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/example2.png" group-title="Vidaa", Sport One
