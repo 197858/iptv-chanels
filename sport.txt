@@ -1,38 +1,35 @@
 Daftar Channel Movies
 
-#EXTM3U url-tvg=""
-
-Channel 1
-#EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/example2.png" group-title="Vidaa", Sport One
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport", Sport One
 https://30a-tv.com/feeds/vidaa/golf.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/example3.png" group-title="Rtvs", Sport Two
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport", Sport Two
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/example4.png" group-title="Amagi", Sport Three
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport", Sport Three
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/example5.png" group-title="Webstream", Sport Four
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport", Sport Four
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/example6.png" group-title="Bozztv, Sport Five
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport", Sport Five
 https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/example7.png" group-title="Makacitv", Sport Six
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport", Sport Six
 https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/example8.png" group-title="Afrikatv", Sport Seven
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport", Sport Seven
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/example9.png" group-title="Alkas5", Sport Eight
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport", Alkass 5
 https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/example10.png" group-title="Alkas4", Sport Nine
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport", Alkass 4
 https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/example11.png" group-title="', Sport 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport", Alkass 1
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/example12.png" group-title="Aljas7", Sport Ten
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport", Alkass 7
 https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
